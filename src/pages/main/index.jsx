@@ -1,7 +1,7 @@
 /*
  * @Author: lucas Liu lantasy.io@gmail.com
  * @Date: 2024-10-27 14:53:55
- * @LastEditTime: 2024-10-28 12:24:15
+ * @LastEditTime: 2024-10-30 17:11:05
  * @Description:
  */
 import { PostsGrid } from '../../components/posts-grid';
@@ -17,6 +17,11 @@ const data = [
     title: 'Post 2',
     description: 'This is the second post',
     key: '2',
+  },
+  {
+    title: 'Post 3',
+    description: 'This is the third post',
+    key: '3',
   },
   {
     title: 'Post 3',
